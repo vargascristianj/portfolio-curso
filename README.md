@@ -1,6 +1,6 @@
 # Portfolio
 Bienvenidos al portfolio demo del Curso!
-Este proyecto fue programado durante el curso de [HTML y CSS]([https://www.aluracursos.com/cursos-online-programacao/logica-de-programacion](https://app.aluracursos.com/category/front-end/html-css)) (G8 - ONE) de academia [Alura Latam](https://www.aluracursos.com/).
+Este proyecto fue programado durante el curso de [HTML y CSS](https://app.aluracursos.com/category/front-end/html-css) (G8 - ONE) de academia [Alura Latam](https://www.aluracursos.com/).
 
 ## Descripción del proyecto
 El objetivo del proyecto es crear el portfolio de Ana García y mostrar sus servicios de desarrollo front end.
