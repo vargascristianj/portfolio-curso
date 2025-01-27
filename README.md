@@ -12,7 +12,7 @@ _Se realizaron todos los pasos y cabios vistos en el curso_
 
 ## Tecnologías utilizadas
 * HTML 
-* CCS
+* CSS
 * Visual Studio Code
 * GitHub
 
